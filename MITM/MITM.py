@@ -5,8 +5,8 @@ import time
 usage = """
 'USAGE'
 ----------------------------------------------------------------------------
-python3 man_in_the_middle.py -t <target ip> -g <gateway ip>
-python3 man_in_the_middle.py --target <target ip> --gateway <gateway ip>
+python3 MITM.py -t <target ip> -g <gateway ip>
+python3 MITM.py --target <target ip> --gateway <gateway ip>
 ----------------------------------------------------------------------------
 """
 print(usage)
